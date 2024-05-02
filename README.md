@@ -1,9 +1,9 @@
 # Online-Examination-Portal-Project
 
-Backend - Java
-Frontend - Angular
-Frameworks - Spring Boot , Hibernate 
-Server - Tomcat 
+Backend - Java,
+Frontend - Angular,
+Frameworks - Spring Boot , Hibernate,
+Server - Tomcat,
 Database - MYSQL
 
 Overview - 
